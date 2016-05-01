@@ -21,6 +21,9 @@ Nel 1967, nel match Inter-Pistoiese, dopo appena 5 minuti dall'inizio della part
 
 ![Pluto]({{ site.url }}/img/pluto.jpg)
 
+Il misterioso giocatore.
+
+
 Pluto e Frustalupi completarono la sconfitta dell'Inter, che dovette tornare a casa con la coda tra le gambe, 19 goal subiti e solo 1 segnato.
 
 
