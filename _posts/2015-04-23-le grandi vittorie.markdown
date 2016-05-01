@@ -1,8 +1,8 @@
 ---
 title:  "La grandi vittorie"
 subtitle: "Le più clamorose stracciate inflitte dalla Pistoiese negli anni"
-author: "Wferr"
-avatar: "img/authors/wferr.png"
+author: "admin"
+avatar: "img/logo.png"
 image: "img/successidelpassato.jpg"
 date:   2015-01-01 12:12:12
 ---

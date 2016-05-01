@@ -1,8 +1,8 @@
 ---
 title:  "La squadra oggi"
 subtitle: "La composizione dell'imbattibile formazione"
-author: "Wferr"
-avatar: "img/authors/wferr.png"
+author: "admin"
+avatar: "img/logo.png"
 image: "img/lasquadraoggi.jpg"
 date:   2016-01-01 12:12:12
 ---
