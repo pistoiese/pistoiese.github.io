@@ -16,7 +16,7 @@ Nel 2013 il noto studioso di calcio Otto von Bismark tentò di documentare tutte
 Questa pagina riporta alcuni degli eventi più noti dell'Eccellente squadra.
 
 # Il giocatore sconosciuto
-Nel 1967, nel match Inter-Pistoiese, dopo appena 5 minuti dall'inizio della partita e 3 goal subiti, il capitano dell'Inter implorò alla Pistoiese una tregua. L'allora capitano della Pistoiese Giovanni Calciorotante chiede allora a tutti i suoi giocatori, eccetto Frustalupi, di uscire dal campo, e chiese al pubblico se un volontario volesse unirsi alla squadra. Rispose solo un dinoccolato giovane di Viganello, il cui nome rimase ignoto ma che la folla iniziò a incoraggiare al grido di "Pluto".
+Nel 1967, nel match Inter-Pistoiese, dopo appena 5 minuti dall'inizio della partita e 3 goal subiti, il capitano dell'Inter implorò alla Pistoiese una tregua. L'allora allenatore della Pistoiese Giovanni Calciorotante chiese allora a tutti i suoi giocatori, eccetto Frustalupi, di uscire dal campo, e domandò al pubblico se un volontario volesse unirsi alla squadra. Rispose solo un dinoccolato giovane di Viganello, il cui nome è tuttora ignoto ma che la folla iniziò a incoraggiare al grido di "Pluto".
 
 
 ![Pluto]({{ site.url }}/img/pluto.jpg)
@@ -24,7 +24,7 @@ Nel 1967, nel match Inter-Pistoiese, dopo appena 5 minuti dall'inizio della part
 Il misterioso giocatore.
 
 
-Pluto e Frustalupi completarono la sconfitta dell'Inter, che dovette tornare a casa con la coda tra le gambe, 19 goal subiti e solo 1 segnato.
+Pluto e Frustalupi completarono la sconfitta dell'Inter, la quale dovette tornare a casa con la coda tra le gambe, 19 goal subiti e solo 1 segnato.
 
 
 # La storica partita contro I Grugniti
@@ -32,7 +32,7 @@ Pluto e Frustalupi completarono la sconfitta dell'Inter, che dovette tornare a c
 
 Nel 2011, la terrificante squadra de I Grugniti sfida la Pistoiese.
 
-I disonesti avversari scendono in campo in 58, e per di più armati di balestre e spadini nascosti sotto i pantaloni. Da subito i famigerati Ultras dei Grugniti iniziano un fitto lancio di vetri e sassi ai danni degli onesti giocatori della Pistoiese. Una pentola a pressione lanciata da uno spalto raggiunge alla nuca Gigino Strappacamicia proprio mentre segna il primo goal.
+I disonesti avversari scendono in campo in 58, e per di più armati di balestre e spadini nascosti sotto i pantaloni. Da subito i famigerati Ultras dei Grugniti iniziano un fitto lancio di vetri e sassi ai danni degli onesti giocatori della Pistoiese. Una pentola a pressione lanciata da uno spalto raggiunge alla nuca Gigino Strappacamicia proprio mentre segna il primo goal. Il povero Strappacamicia è costretto all'infermeria, mentre in campo si scatena l'inferno.
 
 Al dodicesimo minuto il capitano dei Grugniti, armato di saldatore, assale il portiere della Pistoiese Lou Chiappamosca, lo trascina negli spogliatoi e lo immobilizza chiudendolo nel gabinetto delle donne. Da vero signore, l'irreprensibile Chiappamosca vi resta fino alla fine della partita, ma riesce comunque a parare ogni tiro, compresi i due rigori calciati a tradimento dal perfido Castracane de Violenti.
 
