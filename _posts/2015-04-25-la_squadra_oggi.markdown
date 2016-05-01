@@ -40,7 +40,7 @@ Marocchino di nascita ma originario di Collina Bassa, è l'unico giocatore al mo
 Gioca nel Massacciuccoli per 12 anni, senza mai segnare un solo goal. Viene morso da una vipera mentre fa il barbecue nell'orto, e da quel giorno riesce a segnare perfino senza toccare la palla. Nel 2008 inventa la famosa tattica che prende il nome di Gioco del Cinghiale, vietata dalla Convenzione di Ginevra perché spesso comporta la morte di qualcuno degli avversari.
 
 ## Centrocampo: Joe Nevrosi
-![Joe Nevrosi({{ site.url }}/img/joenevrosi.jpg)
+![Joe Nevrosi]({{ site.url }}/img/joenevrosi.jpg)
 
 Irascibile centrocampo, temuto dagli avversari per l'infallibile dribbling e per l'alito pesante. Quando non gioca per la Pistoiese abbatte tronchi all'Abetone, e prepara grigliate di beneficienza per le Suore Scalze di Ponte Buggianese, alle quali è da sempre devoto. 
 
