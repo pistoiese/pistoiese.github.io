@@ -27,7 +27,7 @@ Esordisce nel nuoto sincronizzato a Cantagrillo, ma presto la sua grinta viene n
 ## Difesa: Giovanni Tritatutto
 ![Giovanni Tritatutto]({{ site.url }}/img/giovannitritatutto.jpg)
 
-Nonostante l'aspetto bellicoso è il più timido e riservato dei giocatori della squadra. Durante una partita amichevole, nel 2009 sfida da solo Inter, Juve e Barcellona, concedendo il vantaggio di 10 goal. Vince facilmente, segnando 26 goal di testa, 12 di tacco e 34 di schiena. Nel 2012 vince anche i campionati di uncinetto, pratica alla quale dedica tutto il tempo fuori dagli allenamenti.
+Nonostante l'aspetto bellicoso è il più timido e riservato dei giocatori della squadra. Durante una partita amichevole, nel 2009 sfida da solo Inter, Juve e Barcellona, concedendo il vantaggio di 10 goal. Vince facilmente, segnando 26 goal di testa, 12 di tacco e 34 di schiena. Nel 2012 vince anche i campionati italiani di uncinetto, pratica alla quale dedica tutto il tempo fuori dagli allenamenti.
 
 ## Centravanti da sfondamento: Ugo Spezzalossa
 ![Ugo Spezzalossa]({{ site.url }}/img/ugospezzalossa.jpg)
