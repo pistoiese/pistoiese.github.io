@@ -42,5 +42,5 @@ Il temibile Castracane de Violenti.
 
 Viste le difficoltà nell'avere la meglio della Pistoiese nonostante gli sporchi trucchi, alla metà del primo tempo I Grugniti chiamano in campo un gruppo di operai metalmeccanici armati di spranghe. La partita prosegue, con i campioni della Pistoiese costretti ad alternate agili dribbling con mazzolate sulla testa.
 
-Il verdetto è comunque implacabile: 12 goal per gli Arancioni, 0 per I Grugniti, che per la vergogna si ritirano dal calcio e passano al Bridge.
+Il verdetto è comunque implacabile: 12 goal per gli Arancioni, 0 per I Grugniti, che per la vergogna si ritirano dal calcio e passano al Bridge, peraltro con discreti risultati.
 
